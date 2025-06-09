@@ -1,0 +1,7 @@
+Brief Introduction About Myself
+
+Brief Introduction About Myself
+
+Hello! My name is Efan Addis. I'm currently a student  and I'm excited to learn more about version control with GitHub.
+
+I enjoy learing how to code  and I'm looking forward to using GitHub for my projects. This is my first step in understanding how to collaborate and manage code effectively.
